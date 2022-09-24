@@ -1,0 +1,9 @@
+<suite name="suite">
+<test name="Test">
+<paramer name="" value=""/>
+<classes>
+<class name="pkg.abc"></class>
+<method></method>
+</classes>
+</test> 
+</suite>
